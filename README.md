@@ -1,14 +1,10 @@
-# ArcSoftFaceForC#
 1.	简介
 1.1	运行环境
-
 Windows平台
 最低硬件配置
 Intel® CoreTM i5-2300@2.80GHz 或者同级别芯片
-
 推荐硬件配置
 Intel® CoreTMi7-4600U@2.1GHz 或者同级别芯片
-
 1.2	系统要求
 Windows7及以上
 1.3	开发工具
